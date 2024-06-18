@@ -398,7 +398,8 @@ Serial.print(m3);
 
 
 
-}```
+}
+```
 
 ### Python Environment Setup
 1. **Install Python 3**: Ensure you have Python 3 installed on your system. You can download it from [Python's official website](https://www.python.org/downloads/).
