@@ -29,7 +29,7 @@ This project involves creating a robot that can follow a blue-colored ball using
 ### Arduino Setup
 1. **Install Arduino IDE**: Download and install the Arduino IDE from [Arduino's official website](https://www.arduino.cc/en/software).
 2. **Arduino Code**: Upload the following code to your Arduino board. This code listens for serial commands and controls the motors accordingly.
-   ```cpp
+   ```
    #include "CytronMotorDriver.h"
 #include <usbhid.h>
 #include <hiduniversal.h>
@@ -398,9 +398,7 @@ Serial.print(m3);
 
 
 
-}
-
-   ```
+}```
 
 ### Python Environment Setup
 1. **Install Python 3**: Ensure you have Python 3 installed on your system. You can download it from [Python's official website](https://www.python.org/downloads/).
